@@ -13,56 +13,58 @@ Network Engineering\n
 \n
 
 *Email:* wenting_ye \[at\] bupt.edu.cn \n
-*Github:* [https://github.com/YeWenting Yewenting]\n
-*Linkedin:* [https://www.linkedin.com/in/wenting-%E6%96%87%E9%9C%86-ye-70aa42ba/ Wenting Ye]
-*[https://yewenting.github.io/yewenting.github.io/CV.pdf CV] *
+*[https://github.com/YeWenting GitHub], [https://www.linkedin.com/in/wenting-%E6%96%87%E9%9C%86-ye-70aa42ba/ Linkedin], [https://yewenting.github.io/yewenting.github.io/doc/CV.pdf CV] *
 
 == Biography
 
 Wenting Ye is currently a junior student majored in network engineering at Beijing Univ. of Posts \& Telecoms. He has achieved excellent academic performance, including receiving three straight National Scholarships with overall GPA 91.68/100.
 Before that, he studied in Fuzhou No.1 Middle School, where he was a member of Olympiad in Informatics (OI) team. He won the first prize in National Olympiad in Informatics in Provinces (NOIP).
 
-He started his research in Sailing Lab in Oct 2016 with the mentor of [https://www.cs.cmu.edu/~epxing/ Prof. Eric P. Xing] and [https://www.cs.cmu.edu/~haohanw/ Ph.D. candidate Haohan Wang]. His main research interests include but are not limited to machine learning, data mining and computer vision.
+He started his research in Sailing Lab in Oct 2016 with the mentor of [https://www.cs.cmu.edu/~epxing/ Prof. Eric P. Xing] and [https://www.cs.cmu.edu/~haohanw/ Ph.D. candidate Haohan Wang]. His main research interests include but are not limited to *machine learning* and its application in *data mining* and *computer vision*.
 
 Recently he has joined the [https://en.wikipedia.org/wiki/Toutiao Toutiao AI Lab] as a research intern, focusing on building a video action recognition system.
 
-== Experience
++He is looking for 2018 summer internship regarding machine learning in the U.S. If you have any positions available, please contact him!+
 
-[https://en.wikipedia.org/wiki/Toutiao Toutiao AI Lab], Beijing, China, Oct. 2017 -- Present\n
-*Research Intern to Dr. Changhu Wang*\n
-- Researching action recognition in the video
+# == Experience
+#
+# [https://en.wikipedia.org/wiki/Toutiao Toutiao AI Lab], Beijing, China, Oct. 2017 -- Present\n
+# *Research Intern to Dr. Changhu Wang*\n
+# - Researching action recognition in the video
+#
+# [http://www.sailing.cs.cmu.edu/main/ Sailing Lab], Carnegie Mellon University, Pittsburgh, June 2017 -- Sep. 2017\n
+# *Research Intern to [https://www.cs.cmu.edu/~epxing/ Prof. Eric P. Xing] and [https://www.cs.cmu.edu/~haohanw/ Haohan Wang]*\n
+# - Built a genetic association database based on deep reinforcement learning model that could automatically select the authentic articles and efficiently extract the information in the text
+# - Contributed to [http://genamap.org/ GenAMap], including improving the matrix decomposition efficiency by 50\% and adding the support for PLINK file (a wide-spread genome data format)
+#
+# Language Technologies Institute, Carnegie Mellon University, Pittsburgh, Oct. 2016 -- June 2017\n
+# *Research Intern to Haohan Wang*\n
+# - Proposed two structured variable selection models with confounding correction with two manuscripts yielded
 
-[http://www.sailing.cs.cmu.edu/main/ Sailing Lab], Carnegie Mellon University, Pittsburgh, June 2017 -- Sep. 2017\n
-*Research Intern to [https://www.cs.cmu.edu/~epxing/ Prof. Eric P. Xing] and [https://www.cs.cmu.edu/~haohanw/ Haohan Wang]*\n
-- Built a genetic association database based on deep reinforcement learning model that could automatically select the authentic articles and efficiently extract the information in the text
-- Contributed to [http://genamap.org/ GenAMap], including improving the matrix decomposition efficiency by 50\% and adding the support for PLINK file (a wide-spread genome data format)
+== Publication
 
-Language Technologies Institute, Carnegie Mellon University, Pittsburgh, Oct. 2016 -- June 2017\n
-*Research Intern to Haohan Wang*\n
-- Proposed two structured variable selection models with confounding correction with two manuscripts yielded
+- [https://arxiv.org/abs/1711.04162 A Sparse Graph-structured Lasso Mixed Model for Genetic Association with Confounding Correction],\n*Ye, W*., Liu, X., Wang, H., & Xing, E. P.,\n /Research in Computational Molecular Biology/ (*RECOMB 2018*) (submitted)
 
-== Papers
+- [https://arxiv.org/abs/1711.08265 Sparse Variable Selection in High Dimensional Heterogeneous Data with Tree Structured Responses],\nLiu, X., Wang, H., *Ye, W*., & Xing, E. P.,\n
 
-*Ye, W.* Liu, X. Wang, H. \& Xing, EP. A Sparse Graph-structured Lasso Mixed Model for Genetic Association with Confounding Correction. Bioinformatics submitted
-
-Liu, X., Wang, H., *Ye, W.* \& Xing, EP. Sparse Variable Selection in High Dimensional Heterogeneous Data with Tree Structured Responses AAAI 2018 submitted
-
-Cao, J. Wu, Z. *Ye, W.* \& Wang H. Learning Functional Embedding of Genes Governed by Pair-wised Labels. ICCIA 2017 oral presentation
+- [https://yewenting.github.io/yewenting.github.io/doc/ICCIA2017.pdf Learning Functional Embedding of Genes Governed by Pair-wised Labels],\nCao, J., Wu, Z., *Ye, W.*, & Wang H.,\n /IEEE International Conference on Computational Intelligence and Applications/ *(ICCIA 2017 oral presentation)*
 
 == Honors & Awards
 
+National Scholarship (*Top 1\%*), 2017\n
 [http://www.comap-math.com/mcm/2016Certs/45098.pdf Interdisciplinary Contest In Modeling Meritorious Winner], 2016\n
-National Scholarship for three straight years (*Top 1%*), 2015-2017\n
+National Scholarship (*Top 1\%*), 2016\n
+National Scholarship (*Top 1\%*), 2015\n
 Caifang Zhuang·Chongwen Zhuang Scholarship (200 students in Fujian Province), 2014\n
 National Olympiad in Informatics in Provinces (NOIP) first prize, 2013\n
 
 == Skills
 
-*Programming Languages:*
-Python,  C/C++, Java, Pascal, JavaScript, MATLAB, MIPS Assembly Language, LaTeX
-*Frameworks & Tools:*
-MXNet, Docker, Qt GUI, Django, Git
-*Language Proficiency:*
-English (full professional proficiency with TOEFL 107 and GRE 325+3.5), Mandarin (native), Japanese (beginner), Foochow (half native)
-*Personal Interest:*
-Basketball (school basketball team), piano, traveling (I have explored more than 25 cities), symphonies
+*Programming Languages:*\n
+Python,  C/C++, Java, Pascal, JavaScript, MATLAB, MIPS Assembly Language, LaTeX\n
+*Frameworks & Tools:*\n
+MXNet, Docker, Qt GUI, Django, Git\n
+*Language Proficiency:*\n
+English (full professional proficiency with TOEFL 107 and GRE 325+3.5), Mandarin (native), Japanese (beginner), Foochow (half native)\n
+*Personal Interest:*\n
+Basketball (school basketball team), piano, traveling (I have explored more than 25 cities), symphonies\n
