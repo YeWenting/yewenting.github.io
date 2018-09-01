@@ -3,33 +3,32 @@
 
 = *Wenting Ye*
 
-{{<img src="BJ_2015.png" width=170 align="right" style=" padding-right: 20px; padding-top: 6px;"/> }}
-*Bachelor of Engineering* \n
+{{<img src="selfie copy.jpg" width=150 align="right" style=" padding-right: 15px; padding-top: 6px;"/> }}
+*Master Student* \n
 
 
-Network Engineering\n
-[http://scs.bupt.edu.cn/cs_web/English/outer/index.htm School of Computer Science]\n
-[http://english.bupt.edu.cn/ Beijing University of Posts and Telecommunications] \n
-\n
+Master of Science in Computational Data Science,\n
+Language Technologies Institute,\n
+School of Computer Science,\n
+Carnegie Mellon University\n
 
-*Email:* wenting_ye \[at\] bupt.edu.cn \n
-*[https://github.com/YeWenting GitHub], [https://www.linkedin.com/in/wenting-%E6%96%87%E9%9C%86-ye-70aa42ba/ Linkedin], [https://yewenting.github.io/yewenting.github.io/doc/CV.pdf CV] *
+*Email:* wentingye \[at\] cmu.edu \n
+*[https://github.com/YeWenting GitHub], [https://www.linkedin.com/in/wenting-ye/ Linkedin], [doc/CV.pdf CV] *
 
 == Biography
 
-Wenting Ye is currently a junior student majored in network engineering at Beijing Univ. of Posts \& Telecoms. He has achieved excellent academic performance, including receiving three straight National Scholarships with overall GPA 91.68/100.
-Before that, he studied in Fuzhou No.1 Middle School, where he was a member of Olympiad in Informatics (OI) team. He won the first prize in National Olympiad in Informatics in Provinces (NOIP).
+Wenting Ye is currently a first-year master student in computational data science *(MCDS)* in School of Computer Science at *Carnegie Mellon University*. He graduated from School of Computer Science, *Beijing Univ. of Posts & Telecom.*, with three stright National Scholarships.
 
-From Oct. 2016 to Oct. 2017, he worked with [https://www.cs.cmu.edu/~haohanw/ Haohan Wang], a Ph.D. candidate at Language Technologies Institute, Carnegie Mellon University. In 2017 summer, he had a fantastic summer internship mentored by [https://www.cs.cmu.edu/~epxing/ Prof. Eric P. Xing] and [https://www.cs.cmu.edu/~haohanw/ Haohan Wang]. His main research interests include but are not limited to *machine learning* and its application in *data mining* and *computer vision*.
+From Oct. 2016 to Oct. 2017, he worked with [https://www.cs.cmu.edu/~haohanw/ Haohan Wang], a Ph.D. candidate at Language Technologies Institute, Carnegie Mellon University, researching genetic association with confounding factors. In 2017 summer, he had a fantastic summer internship mentored by [https://www.cs.cmu.edu/~epxing/ Prof. Eric P. Xing] and [https://www.cs.cmu.edu/~haohanw/ Haohan Wang], aiming at building a genetic association database using deep reinforcement learning. After returning to China, He joined the [https://en.wikipedia.org/wiki/Toutiao Toutiao AI Lab] as a Machine Leanring Intern, working with Dr. Zehuan Yuan to investigate how to efficiently model the spatio-temporal information for Action Detection.
 
-Recently he has joined the [https://en.wikipedia.org/wiki/Toutiao Toutiao AI Lab] as a research intern, focusing on building a video action recognition system.
+His main research interests include but are not limited to *machine learning* and its application in *data mining* and *computer vision*.
 
-+He is looking for 2018 summer internship regarding machine learning in the U.S. If you have any positions available, please contact him!+
++He is looking for 2019 summer internship regarding machine learning in the U.S. If you have any positions available, please contact him!+
 
 # == Experience
 #
-# [https://en.wikipedia.org/wiki/Toutiao Toutiao AI Lab], Beijing, China, Oct. 2017 -- Present\n
-# *Research Intern to Dr. Changhu Wang*\n
+# [https://en.wikipedia.org/wiki/Toutiao Toutiao AI Lab], Beijing, China, Oct. 2017 -- May 2018\n
+# *Machine Leanring Intern,*\n
 # - Researching action recognition in the video
 #
 # [http://www.sailing.cs.cmu.edu/main/ Sailing Lab], Carnegie Mellon University, Pittsburgh, June 2017 -- Sep. 2017\n
@@ -52,6 +51,12 @@ Recently he has joined the [https://en.wikipedia.org/wiki/Toutiao Toutiao AI Lab
 == Presentation
 
 - Everlasting Iatric Researcher (Eir): Identifying the Article and Reading for Genetic.\nWang, H., Liu, X., & *Ye, W.*\n Carnegie Mellon University Language Technologies Institute Student Research Symposium
+
+== Selected Coursework
+
+*Computer System, Summer 2018*
+- Implemented a dynamic memory allocater in C (including malloc, free, callo, reallo), using segregated free lists with first-fit search, immediate coalescing of free blocks, and a seperate singly linked list for small free blocks, yielding full score in utilization and throughput test
+- Designed a shell program in C with job control and I/O redirections
 
 == Honors & Awards
 
