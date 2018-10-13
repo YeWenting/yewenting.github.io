@@ -56,7 +56,11 @@ His main research interests include but are not limited to *machine learning* an
 
 == Selected Coursework
 
-*Computer System, Summer 2018*
+*Multilayer Perceptron for Speech Classiﬁcation, 2018 Fall*
+- Performed context-aware speech classiﬁcation using a multilayer perceptron network on a dataset with more than 15M frames data, ranking *top 3%* (4/194) in Kaggle Competition
+
+
+*Computer System, 2018 Summer*
 - Implemented a dynamic memory allocater in C (including malloc, free, callo, reallo), using segregated free lists with first-fit search, immediate coalescing of free blocks, and a seperate singly linked list for small free blocks, yielding full score in utilization and throughput test
 - Designed a shell program in C with job control and I/O redirections
 
